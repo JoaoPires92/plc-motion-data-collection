@@ -1,0 +1,54 @@
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe.config
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.F_Main.resources
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.Resources.resources
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.exe
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.xml
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.pdb
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.pdb
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.xml
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe.config
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.pdb
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.xml
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.F_Main.resources
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.Resources.resources
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.exe
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.xml
+C:\Users\nunesjp\Desktop\VS 2019 Apps\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.pdb
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe.config
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.pdb
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.xml
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbprojAssemblyReference.cache
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.F_Main.resources
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.Resources.resources
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.GenerateResource.cache
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.CoreCompileInputs.cache
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.exe
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.xml
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App - Copy\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.pdb
+C:\Users\nunesjp\Desktop\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.F_About.resources
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe.config
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.exe
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.pdb
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\ATS Condition Monitoring App.xml
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\HslCommunication.xml
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.F_About.resources
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.F_Main.resources
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS_Condition_Monitoring_App.Resources.resources
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.GenerateResource.cache
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.CoreCompileInputs.cache
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbproj.CopyComplete
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.exe
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.xml
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.pdb
+C:\Users\pires\Desktop\JOÃO\Abbott\ATS Condition Monitoring App\ATS Condition Monitoring App\obj\Debug\ATS Condition Monitoring App.vbprojResolveAssemblyReference.cache

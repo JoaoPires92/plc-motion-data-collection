@@ -1,0 +1,33 @@
+S20-Manipulator1|X Axis|gS20WeissXYServo.ActualPosition_A1|gS20WeissServo_Monitor.X_Current|gS20WeissServo_Monitor.X_LagError
+S20-Manipulator1|Y Axis|gS20WeissXYServo.ActualPosition_A2|gS20WeissServo_Monitor.Y_Current|gS20WeissServo_Monitor.Y_LagError
+S20-Manipulator1|Z Axis|gCellS20_HMI_ZServo.A1CurrentPosition|gS20WeissServo_Monitor.Z_Current|gS20WeissServo_Monitor.Z_Force|gS20WeissServo_Monitor.Z_LagError
+S20-Manipulator1|Theta Axis|gCellS20_HMI_ThetaServo.A1CurrentPosition|gS20WeissServo_Monitor.T_Current|gS20WeissServo_Monitor.T_Torque|gS20WeissServo_Monitor.T_LagError
+S20-Manipulator1|AutoTrigger|Program:C20S20_LoadManipulator.LoadManipulator.Output|7|True|0|False|AutoStop|Program:C20S20_LoadManipulator.LoadManipulator.Output|17|True|0|False
+S25-Shuttle1|gS25Shuttle1Servo.ActualPosition_A1|gS25Shuttle1Weiss_Monitor.Current|gS25Shuttle1Weiss_Monitor.LagError
+S25-Shuttle1|AutoTrigger|Program:C20S25_LaserShuttle1.LaserShuttle.Output|5|True|0|False|AutoStop|Program:C20S25_LaserShuttle1.LaserShuttle.Output|5|True|0|True
+S25-Shuttle2|gS25Shuttle2Servo.ActualPosition_A1|gS25Shuttle2Weiss_Monitor.Current|gS25Shuttle2Weiss_Monitor.LagError
+S25-Shuttle2|AutoTrigger|Program:C20S25_LaserShuttle2.LaserShuttle.Output|5|True|0|False|AutoStop|Program:C20S25_LaserShuttle2.LaserShuttle.Output|5|True|0|True
+S40-Manipulator2|X Axis|gS40WeissXYServo.ActualPosition_A1|gS40WeissServo_Monitor.X_Current|gS40WeissServo_Monitor.X_LagError
+S40-Manipulator2|Y Axis|gS40WeissXYServo.ActualPosition_A2|gS40WeissServo_Monitor.Y_Current|gS40WeissServo_Monitor.Y_LagError
+S40-Manipulator2|Z Axis|gCellS40_HMI_ZServo.A1CurrentPosition|gS40WeissServo_Monitor.Z_Current|gS40WeissServo_Monitor.Z_Force|gS40WeissServo_Monitor.Z_LagError
+S40-Manipulator2|Theta Axis|gCellS40_HMI_ThetaServo.A1CurrentPosition|gS40WeissServo_Monitor.T_Current|gS40WeissServo_Monitor.T_Torque|gS40WeissServo_Monitor.T_LagError
+S40-Manipulator2|AutoTrigger|Program:C20S40_UnloadManipulator.UnLoadManipulator2.Output|11|True|11|True|AutoStop|Program:C20S40_UnloadManipulator.UnLoadManipulator1.Output|8|True|3|False
+End of Configuration File
+
+
+
+// **************************************** Comments ******************************************************
+
+// Auto Trigger - Cycle Start Bit Conditions:
+
+Manipulator1: ' Manipulator 1 pick and place lane 2 panel - bit 7 move to pick Lane 2 = True, bit 0 vacuun on/off = False
+Shuttle1: ' Shuttle Moving to Load Position from unload position - bit 5 move to load = True , bit 0 Cylinder moving to work position = False
+Shuttle2: ' Shuttle Moving to Load Position from unload position - bit 5 move to load = True , bit 0 Cylinder moving to work position = False
+Manipulator2: ' Manipulator 2 pick and place lane 2 panel - Bit 11 move to pick lane 2 = True
+
+// Auto Trigger - Cycle Stop Bit Conditions:
+
+Manipulator1: ' Manipulator 1 pick and place lane 2 panel - bit 17 move Z axis to raise = True. , bit 0 Vacuum On/Off
+Shuttle1:' Shuttle at Load position and cylinder moving to work position - bit 5 move to load = True , bit 0 cylinder moving to work position = True
+Shuttle2:' Shuttle at Load position and cylinder moving to work position - bit 5 move to load = True , bit 0 cylinder moving work position = True
+Manipulator2:' Manipulator 2 pick and place lane 2 panel - bit 8 move Z to clear = True, bit 3 LeadFrame Vacuum On/Off = False
